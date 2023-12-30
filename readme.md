@@ -9,8 +9,3 @@ Added the docker file but this require manually changing the port and then runni
 
 ##Code Path:- 
 https://github.com/malhotrah/middleware_2023
-
-
-Video demo link
-
-https://drive.google.com/file/d/1xlnkt_zaCYw-VQzKbUqNZUxAu7yREdGR/view?usp=sharing
