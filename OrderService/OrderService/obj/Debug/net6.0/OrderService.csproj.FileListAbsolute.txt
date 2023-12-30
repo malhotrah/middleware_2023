@@ -1,0 +1,6 @@
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.csproj.AssemblyReference.cache
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.GeneratedMSBuildEditorConfig.editorconfig
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.AssemblyInfoInputs.cache
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.AssemblyInfo.cs
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.csproj.CoreCompileInputs.cache
+D:\nagp\middleware-workshop\OrderService\OrderService\obj\Debug\net6.0\OrderService.MvcApplicationPartsAssemblyInfo.cache

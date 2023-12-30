@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55ee5bad-644d-4a5d-83f3-7e176058bfa6": {
+      "ProjectGuid": "55ee5bad-644d-4a5d-83f3-7e176058bfa6",
+      "DisplayName": "NotificationApp1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

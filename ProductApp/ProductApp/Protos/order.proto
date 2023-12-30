@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+option csharp_namespace = "OrderApp";
+
+package order;
+
+// The order service definition.
+service Order {
+  // Create order
+  rpc CreateOrder (CreateOrderRequest) returns (CreateOrderResponse);
+  rpc UpdateOrder (UpdateOrderRequest) returns (UpdateOrderResponse);
+}
+
+// The request message
+message CreateOrderRequest {
+  int32 ProductId = 1;
+  int32 Quantity = 2;
+  double Amount = 3;
+}
+
+message UpdateOrderRequest {
+  int32 OrderId = 1;
+  string Status = 2;
+}
+
+// The response message
+message CreateOrderResponse {
+  int32 OrderId = 1;
+}
+
+message UpdateOrderResponse {
+  int32 OrderId = 1;
+  string Status = 2;
+}
